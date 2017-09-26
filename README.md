@@ -3,7 +3,8 @@ Trivial project to exercise version control, turn-in, and other
 mechanisms.
 
 ## Instructions:
-
+previous
+===========================================
 - Start by forking this repository on github, then cloning onto your
   development machine. 
 
@@ -36,5 +37,12 @@ mechanisms.
 - Turn in with Canvas.  The file you turn in is credentials.ini.  We
    use the repository link in your credentials.ini to access the rest,
    just like the auto-checker.
+===============================================
 
+modified version:
+author: Hang Li
+contact address: Deschutes 100
+email: hli10@uoregon.edu
+what the software does:
+I am not quite sure yet.
 
